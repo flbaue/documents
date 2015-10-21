@@ -1,8 +1,4 @@
-# Commandline Tools
-
-
-## Test the API
-
+# curl
 
 ### 1) Request oAuth Token
 ``` bash
